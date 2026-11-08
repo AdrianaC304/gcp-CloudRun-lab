@@ -1,0 +1,10 @@
+[
+  {"name": "execution",   "type": "STRING"},
+  {"name": "computed_at", "type": "TIMESTAMP"},
+  {"name": "order_date",  "type": "DATE"},
+  {"name": "country",     "type": "STRING"},
+  {"name": "product",     "type": "STRING"},
+  {"name": "orders",      "type": "INT64"},
+  {"name": "units",       "type": "INT64"},
+  {"name": "revenue",     "type": "FLOAT64"}
+]
